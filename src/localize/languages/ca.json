@@ -1,4 +1,4 @@
-{
+a{
   "weather": {
     "clear-night": "Serè",
     "cloudy": "Ennuvolat",
@@ -28,6 +28,6 @@
   "misc": {
     "aqi": "AQI",
     "humidity": "humitat",
-    "feels-like": "Feels like"
+    "feels-like": "Sensació de"
   }
 }
